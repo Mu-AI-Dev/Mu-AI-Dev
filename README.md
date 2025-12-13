@@ -16,7 +16,7 @@ I am a final-year CS student from Egypt, actively building my path in **Data Sci
 | :--- | :--- |
 | **Languages** | Python 🐍, SQL 🗄️, C++ 💻 |
 | **AI & ML** | PyTorch, Scikit-learn, LangChain, HuggingFace |
-| **Data** | Pandas, NumPy, Matplotlib, Power BI |
+| **Data** | Pandas, NumPy, Matplotlib, SQL |
 | **Tools** | Git, Docker, VS Code, Jupyter |
 
 ### 🌱 Currently Learning
