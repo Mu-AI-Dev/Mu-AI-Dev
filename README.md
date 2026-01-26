@@ -24,4 +24,4 @@ I am a final-year CS student from Egypt, actively building my path in **Data Sci
 *   Building autonomous **AI Agents**.
 
 ---
-[<img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/muhammad-abdelrahaman)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-blue?style=for-the-badge&logo=linkedin" />](www.linkedin.com/in/muhammad-abdulrahman-ali)
